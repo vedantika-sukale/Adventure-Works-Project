@@ -129,11 +129,4 @@ The report follows a structured storytelling approach:
 - Power Query
 - Microsoft Adventure Works Dataset
 
----
 
-## 👤 Author
-**Your Name**  
-Power BI Developer | Data Analyst  
-
-📧 Email: your@email.com  
-🔗 LinkedIn: linkedin.com/in
