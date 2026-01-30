@@ -129,4 +129,10 @@ The report follows a structured storytelling approach:
 - Power Query
 - Microsoft Adventure Works Dataset
 
+## 📊  Dashboard
+![Dashboard 1](images/dash1.png)
+
+![Dashboard 2](images/dash2.png)
+
+![Dashboard 3](images/dash3.png)
 
